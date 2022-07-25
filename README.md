@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on `AI` 
 - 🌱 I’m currently learning `Python`
 - 📫 How to reach me: 506005017@qq.com
 
