@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on `AI` related jobs
 - 🌱 I’m currently learning `Python`
-- 📫 How to reach me: 506005017@qq.com
+- 📫 How to reach me: sugar@sjfood.com
 
 <br />
 
